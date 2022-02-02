@@ -93,6 +93,8 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 
 ```diff
 + Afshin Ataei and Sori
-+ Tel: +989140324398
-+ Telegram: @IR_localhost
 ```
+
+**Contact us**
+
+
