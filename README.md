@@ -68,6 +68,20 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 - Everything is ready to run the file
 <code>python main.py</code>
 
+# Customization
+
+**Go to the <code>resources</code> path to personalize your profile picture and clock color**
+- Open the <code>main.py</code> to change the picture 
+```python 
+photo_filename = '/resources/YourFileName'
+image_text_color = 'greenyellow' #ff0800
+```
+- And you can go to the <code>utils.py</code> file to change the font
+```python
+font = ImageFont.truetype(font='resources/YourFont.TTF', size=150)
+```
+
+
 # Screenshot 
 
 <p align="center">
