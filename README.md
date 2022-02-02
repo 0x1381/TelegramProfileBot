@@ -70,6 +70,12 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 
 
 # Server and Hosting
+**You can use Hiroka for hosting and server**
+
+
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 
 ```diff
