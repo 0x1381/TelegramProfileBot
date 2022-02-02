@@ -72,13 +72,17 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 # Server and Hosting
 **You can use Hiroka for hosting and server**
 
-
 <a href="https://heroku.com/deploy">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
+
+</br>
+
+# Attention
+
 <p align="center">
-  <img src="https://github.com/0x1381/afshin-ataei/blob/main/assets/licensed-image.jpeg">
+  <img src="https://github.com/0x1381/Clock-profile-telegram/blob/main/resources/1643835420947.png">
 </p>
 
 
@@ -90,7 +94,7 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 - by forking it and change any code
 - necessary by giving attribute
 - to the original author.
-
+- داوش بخای اسکی بری مامانت صلوات ختم میکنم
 ```
 
 # Manufacturer
