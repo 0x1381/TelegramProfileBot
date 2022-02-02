@@ -68,6 +68,12 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 - Everything is ready to run the file
 <code>python main.py</code>
 
+# Screenshot 
+
+<p align="center">
+  <img src="https://github.com/0x1381/Clock-profile-telegram/blob/main/IMG_20220203_011218.jpg">
+</p>
+
 
 # Server and Hosting
 **You can use Hiroka for hosting and server**
