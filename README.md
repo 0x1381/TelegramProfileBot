@@ -11,5 +11,5 @@
 ```
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
 </p>
