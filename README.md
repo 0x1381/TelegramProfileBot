@@ -21,7 +21,7 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
   ```python 
     api_id = 1205106
     api_hash = '40e24db52fa79aff3a9aa308fc3e6727'
-    session_name = 'virus-pro'
+    session_name = '0x1381'
   ```
 ```diff
 - text in red
