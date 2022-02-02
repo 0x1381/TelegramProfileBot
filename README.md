@@ -107,13 +107,9 @@ font = ImageFont.truetype(font='resources/YourFont.TTF', size=150)
 
 
 ```diff
-- Please do not discourage 
-- me by claiming this work 
-- by copying it as your own. 
-- However, You are open to use this project 
-- by forking it and change any code
-- necessary by giving attribute
-- to the original author.
+- Please do not copy this
+- I have spent hours on this project
+- Please FORK this repo don't copy 
 - داوش بخای اسکی بری مامانت صلوات ختم میکنم
 ```
 
