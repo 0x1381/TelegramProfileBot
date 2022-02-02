@@ -95,6 +95,9 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 + Afshin Ataei and Sori
 ```
 
-**Contact us**
+**Contact us :**
 
 
+<a href="https://t.me/IR_localhost">
+  <img src="https://img.shields.io/badge/My-Telegram-blue?color=f20a0a " alt="Telegram" />
+</a>
