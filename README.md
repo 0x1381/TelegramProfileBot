@@ -101,3 +101,15 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 <a href="https://t.me/IR_localhost">
   <img src="https://img.shields.io/badge/My-Telegram-blue?color=f20a0a " alt="Telegram" />
 </a>
+<br>
+<a href="https://instagram.com/afshin___ataei">
+  <img src="https://img.shields.io/badge/My-Instagram-blue?color=f20a0a" alt="Instagram" />
+</a>
+<br>
+<a href="tel:+989140324398">
+  <img src="https://img.shields.io/badge/My-Number-blue?color=f20a0a" alt="Number" />
+</a>
+
+
+
+
