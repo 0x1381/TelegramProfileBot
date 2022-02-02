@@ -8,6 +8,14 @@
 
 # use
 
+```bash
+git clone https://github.com/0x1381/Clock-profile-telegram/
+cd Clock-profile-telegram
+pip install -r requirements.txt
+python main.py
+```
+
+
 
 ```diff
 - text in red
