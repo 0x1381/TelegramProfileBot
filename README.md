@@ -6,7 +6,7 @@
 </p>
 <br>
 
-# use
+## 🛠 Installation & Set Up
 
 ```bash
 git clone https://github.com/0x1381/Clock-profile-telegram/
