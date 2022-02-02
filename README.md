@@ -50,7 +50,7 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 
 ```
 
-- then reset line 17 18 19 or 
+- then reset line 17 18 19 
 
 ```python 
  string = 'StringSession'
