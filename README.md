@@ -17,7 +17,8 @@ pip install -r requirements.txt
 
 Go to <code>my.telegram.org</code> then <code>click API development tools</code> and receive api_id and api_hash
 
-
+  - Open <code>config.py</code>, and change <code>api_id</code> and <code>api_hash</code>.
+  
 
 ```diff
 - text in red
