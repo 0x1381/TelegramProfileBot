@@ -79,11 +79,20 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- Please do not discourage 
+- me by claiming this work 
+- by copying it as your own. 
+- However, You are open to use this project 
+- by forking it and change any code
+- necessary by giving attribute
+- to the original author.
+
 ```
 
+# Manufacturer
 
+```diff
++ Afshin Ataei and Sori
++ Tel: +989140324398
++ Telegram: @IR_localhost
+```
