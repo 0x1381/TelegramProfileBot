@@ -65,8 +65,8 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 
 ```
 
-
-
+- Everything is ready to run the file
+<code>python main.py</code>
 
 
 ```diff
