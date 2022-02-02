@@ -77,6 +77,10 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
+<p align="center">
+  <img src="https://github.com/0x1381/afshin-ataei/blob/main/assets/licensed-image.jpeg">
+</p>
+
 
 ```diff
 - Please do not discourage 
@@ -105,7 +109,6 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 <a href="https://instagram.com/afshin___ataei">
   <img src="https://img.shields.io/badge/My-Instagram-blue?color=f20a0a" alt="Instagram" />
 </a>
-
 
 
 
