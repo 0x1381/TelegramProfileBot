@@ -26,6 +26,7 @@ def main():
             current_time = get_current_time()
             previous_time = current_time
             generate_image(current_time)
+            #github.com/0x1381
             image = client.upload_file(config.image_filename)
             client(UploadProfilePhotoRequest(image))
             client(DeletePhotosRequest([client.get_profile_photos('me')[-1]]))
