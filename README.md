@@ -12,8 +12,10 @@
 git clone https://github.com/0x1381/Clock-profile-telegram/
 cd Clock-profile-telegram
 pip install -r requirements.txt
-python main.py
+
 ```
+
+Go to <code>my.telegram.org</code> then <code>click API development tools</code> and receive api_id and api_hash
 
 
 
