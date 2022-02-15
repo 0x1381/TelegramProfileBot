@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50">
 </p>
 <br>
 
