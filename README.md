@@ -135,7 +135,7 @@ font = ImageFont.truetype(font='resources/YourFont.TTF', size=150)
 </a>
 <br>
 <a href="https://instagram.com/afshin___ataei">
-  <img src="https://img.shields.io/badge/My-Instagram-blue?color=f20a0a" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 
