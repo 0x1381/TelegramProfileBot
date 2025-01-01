@@ -124,7 +124,7 @@ font = ImageFont.truetype(font='resources/YourFont.TTF', size=150)
 # Manufacturer
 
 ```diff
-+ Afshin Ataei and Sori
++ Afshin Ataei
 ```
 
 **Contact us :**
