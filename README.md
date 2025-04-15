@@ -118,7 +118,6 @@ font = ImageFont.truetype(font='resources/YourFont.TTF', size=150)
 - Please do not copy this
 - I have spent hours on this project
 - Please FORK this repo don't copy 
-- داوش بخای اسکی بری مامانت صلوات ختم میکنم
 ```
 
 # Manufacturer
@@ -130,11 +129,11 @@ font = ImageFont.truetype(font='resources/YourFont.TTF', size=150)
 **Contact us :**
 
 
-<a href="https://t.me/IR_localhost">
+<a href="https://t.me/0x1381">
   <img src="https://img.shields.io/badge/My-Telegram-blue?color=f20a0a " alt="Telegram" />
 </a>
 <br>
-<a href="https://instagram.com/afshin___ataei">
+<a href="https://instagram.com/0x1381">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
