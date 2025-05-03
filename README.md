@@ -129,7 +129,7 @@ font = ImageFont.truetype(font='resources/YourFont.TTF', size=150)
 **Contact us :**
 
 
-<a href="https://t.me/0x1381">
+<a href="https://t.me/ZEROX1381">
   <img src="https://img.shields.io/badge/My-Telegram-blue?color=f20a0a " alt="Telegram" />
 </a>
 <br>
