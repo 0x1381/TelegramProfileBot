@@ -1,6 +1,6 @@
-api_id = 1205106
+api_id = 123456
 api_hash = ''
-session_name = 'virus-pro'
+session_name = 'x-pro'
 
 image_filename = 'time_image.jpg'
 photo_filename = '/resources/photo.jpg'
