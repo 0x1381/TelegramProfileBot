@@ -27,8 +27,8 @@ Go to <code>my.telegram.org</code> then <code>click API development tools</code>
 
 - Open <code>config.py</code>, and change <code>api_id</code> and <code>api_hash</code>.
 ```python 
-  api_id = 1205106
-  api_hash = '40e24db52fa79aff3a9aa308fc3e6727'
+  api_id = 123456
+  api_hash = ''
   session_name = '0x1381'
 ```
 
